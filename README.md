@@ -1,4 +1,4 @@
-# MyPiggyBank (Static Demo Site)
+# MyPiggyBank CTF Challenge 5 (This repository is not part of the problem. The site is simply hosted from here, there is no other relevant information to the challenge in my repository)
 
 This folder contains a **static, fictional demo website** for "MyPiggyBank".
 
